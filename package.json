@@ -1,7 +1,8 @@
 {
-  "name": "react-example",
+  "name": "v-id-lgpsm",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://6abb65aa048c633d46b9c2e5--jolly-sunburst-d9410b.netlify.app/",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",

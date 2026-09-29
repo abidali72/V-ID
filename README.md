@@ -3,6 +3,11 @@
 > VØID is a futuristic fashion house built on the philosophy of radical minimalism. Stripping design to its purest essence, each collection explores the space between structure and emptiness — where garments become architecture and absence becomes statement.
 > A pure white, minimal, futuristic fashion website interface built with React, TypeScript, Vite, and Tailwind CSS.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://6abb65aa048c633d46b9c2e5--jolly-sunburst-d9410b.netlify.app/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abidali72/V-ID)
+
+🌐 **Live Website:** [https://6abb65aa048c633d46b9c2e5--jolly-sunburst-d9410b.netlify.app/](https://6abb65aa048c633d46b9c2e5--jolly-sunburst-d9410b.netlify.app/)
+
 ---
 
 ## ✨ Overview
