@@ -1,5 +1,6 @@
-# LGPSM° — Future Forward Fashion
+# V-ID (LGPSM°) — Future Forward Fashion
 
+> VØID is a futuristic fashion house built on the philosophy of radical minimalism. Stripping design to its purest essence, each collection explores the space between structure and emptiness — where garments become architecture and absence becomes statement.
 > A pure white, minimal, futuristic fashion website interface built with React, TypeScript, Vite, and Tailwind CSS.
 
 ---
@@ -134,7 +135,7 @@ lgpsm-future-forward-fashion/
 
 ## 📄 License
 
-This project is licensed under the [Apache-2.0 License](https://www.apache.org/licenses/LICENSE-2.0).
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
